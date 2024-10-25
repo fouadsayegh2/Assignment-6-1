@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="products.css"?>
+<products>
+    <product>
+        <name>Vintage T-shirt</name>
+        <description>Tie-dye Grateful Dead T-shirt</description>
+        <price>$35</price>
+        <category>clothing</category>
+        <category>vintage</category>
+    </product>
+    <product>
+        <name>Smartphone</name>
+        <description>Latest model with OLED display</description>
+        <price>$999</price>
+        <category>electronics</category>
+    </product>
+    <product>
+        <name>Bluetooth Speaker</name>
+        <description>Portable and waterproof</description>
+        <price>$120</price>
+        <category>electronics</category>
+    </product>
+    <product>
+        <name>Leather Jacket</name>
+        <description>Classic black leather biker jacket</description>
+        <price>$200</price>
+        <category>clothing</category>
+    </product>
+    <product>
+        <name>Canvas Backpack</name>
+        <description>Durable and eco-friendly</description>
+        <price>$75</price>
+        <category>accessories</category>
+    </product>
+    <product>
+        <name>Wireless Headphones</name>
+        <description>Noise-canceling and over-ear</description>
+        <price>$350</price>
+        <category>electronics</category>
+        <category>accessories</category>
+    </product>
+    <product>
+        <name>Running Shoes</name>
+        <description>Lightweight and comfortable</description>
+        <price>$150</price>
+        <category>clothing</category>
+        <category>accessories</category>
+    </product>
+    <product>
+        <name>Coffee Maker</name>
+        <description>Automatic drip coffee machine</description>
+        <price>$80</price>
+        <category>kitchen</category>
+    </product>
+</products>
